@@ -16,7 +16,9 @@ Here are some ideas to get you started:
 -->
 
   
-##:computer: STACK
+
+<!-- ##:computer: STACK
 <br>
 <br>
 ![](https://img.shields.io/badge/Swift-FA7343?style=flat-square&logo=Swift&logoColor=white)
+ -->
