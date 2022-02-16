@@ -1,4 +1,4 @@
-### Hi there 👋
+### 함께 해주셔서 감사합니다. 👋
 
 <!--
 **LeeJoobang/LeeJoobang** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -15,4 +15,4 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-  [![Joobang's github stats](https://github-readme-stats.vercel.app/api?username=LeeJoobang)](https://github.com/anuraghazra/github-readme-stats)
+  
