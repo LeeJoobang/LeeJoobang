@@ -1,4 +1,6 @@
 ### Hi there :+1:
+
+👣 [학습정리](https://github.com/LeeJoobang/Joobang/blob/main/%ED%95%99%EC%8A%B5%EC%A0%95%EB%A6%AC.md): 학습한 내용을 정리하는 공간입니다.
 <!-- <div>
 <br>
 <h5>:computer: Stack</h5>
